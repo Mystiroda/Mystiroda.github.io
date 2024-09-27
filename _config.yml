@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Tahmid Al Muntasir"
 description              : &description "Student | Aspiring in Mechatronics | Programmer | Passionate about AI & Data Science | Exploring Multilingual efficiency"
 url                      : https://mystiroda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://tahmidalmuntasir.me/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Mystiroda/Mystiroda.github.io"
 canonifyURLs             : true
 
