@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Tahmid Al Muntasir"
 description              : &description "Student | Aspiring in Mechatronics | Programmer | Passionate about AI & Data Science | Exploring Multilingual efficiency"
 url                      : https://mystiroda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://tahmidalmuntasir.me/" # the subpath of your site, e.g. "/blog"
 repository               : "Mystiroda/Mystiroda.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,7 +24,7 @@ author:
   avatar           : "Tahmid.png"
   name             : "Tahmid Al Muntasir"
   pronouns         : # example: "she/her"  
-  bio              : "Engineering Enthusiast who loves to combine knowledge to give more efficient solutions"
+  bio              : "Engineering Enthusiast who loves to combine knowledge innovate"
   location         : "Dhaka, Banglaedesh"
   employer         : "Mawlana Bhashani Science & Technology University"
   uri              : # URL
